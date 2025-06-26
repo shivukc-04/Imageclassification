@@ -29,7 +29,7 @@ The dataset is uploaded in drive.
 - Example predictions:  
   - Input: 🐶 → Predicted: **Dog**  
   - Input: 🐱 → Predicted: **Cat**
-- Final classification accuracy: **[Insert your result here]**
+- Final classification accuracy: **[97.9%]**
 
 ## 🚀 How to Run
 1. Clone this repo  
